@@ -11,4 +11,38 @@ Today, I am focused on applied mathematics and computer science. I have been abl
 
 
 
+🔬 Areas of Expertise
 
+Artificial Intelligence (AI)
+
+High-Performance Computing (HPC)
+
+Modeling and Numerical Simulation
+
+Optimization
+
+Image and Signal Processing
+
+Data Analysis
+
+📚 Technical Skills
+
+Algorithms and Data Structures
+
+Scientific Computing & Numerical Methods
+
+Partial Differential Equations (PDEs)
+
+Statistics & Probability
+
+Algebra & Geometry
+
+💻 Computing
+
+Scientific Programming and Software Development
+
+Proficiency in multiple programming languages and computational environments
+
+Experience in collaborative projects and industrial applications
+
+🚀 Project-driven and innovation-oriented training, with hands-on experience through industry collaborations and professional internships.
